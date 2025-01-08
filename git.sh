@@ -1,4 +1,5 @@
-DESC="readme"
+DESC="Update"
+
 git add .
 git commit -m "$DESC"
 git push origin $1
